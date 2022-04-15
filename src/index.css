@@ -1,0 +1,14 @@
+#todo{
+  text-align: center;
+  margin: auto;
+}
+table,tr,th,tbody{
+    margin: auto;
+    width: 400px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+body{
+background-color: rgb(206, 239, 228);
+}
